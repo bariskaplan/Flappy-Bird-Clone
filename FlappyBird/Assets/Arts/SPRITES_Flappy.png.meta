@@ -1,65 +1,69 @@
 fileFormatVersion: 2
 guid: a7ed03a63f299dd429191139b214f6fa
-timeCreated: 1516349544
+timeCreated: 1516349031
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: background
-    21300002: backgorund_down
-    21300004: pipe_up
-    21300006: pipe_down
+    21300000: SPRITES_Flappy_0
+    21300002: SPRITES_Flappy_1
+    21300004: SPRITES_Flappy_2
+    21300006: SPRITES_Flappy_3
     21300008: SPRITES_Flappy_4
     21300010: SPRITES_Flappy_5
     21300012: SPRITES_Flappy_6
     21300014: SPRITES_Flappy_7
-    21300016: bacground_score
-    21300018: btn_pause
-    21300020: txt_small_zero
-    21300022: btn_play
-    21300024: txt_zero
-    21300026: bird_die
-    21300028: btn_menu
-    21300030: txt_one
+    21300016: SPRITES_Flappy_8
+    21300018: SPRITES_Flappy_9
+    21300020: SPRITES_Flappy_10
+    21300022: SPRITES_Flappy_11
+    21300024: SPRITES_Flappy_12
+    21300026: SPRITES_Flappy_13
+    21300028: SPRITES_Flappy_14
+    21300030: SPRITES_Flappy_15
     21300032: SPRITES_Flappy_16
-    21300034: btn_ok
-    21300036: txt_two
-    21300038: gold
-    21300040: arrow
-    21300042: gold_die_clear
-    21300044: touch
-    21300046: txt_tap
-    21300048: btn_rate
-    21300050: txt_three
-    21300052: bacground_black
-    21300054: png.cemal
-    21300056: png.oguz
-    21300058: txt_flappybird
-    21300060: btn_score
-    21300062: txt_four
-    21300064: background_white
-    21300066: txt_five
-    21300068: txt_gameover
-    21300070: btn_share
-    21300072: txt_small_six
-    21300074: txt_small_seven
-    21300076: btn_start
-    21300078: txt_small_eight
-    21300080: txt_small_nine
-    21300082: png.baris
-    21300084: png.erdal
-    21300086: txt_getready
-    21300088: gold_clear
-    21300090: gold_die
-    21300092: txt_plus
-    21300094: txt_new
-    21300096: txt_six
-    21300098: txt_seven
-    21300100: txt_eight
-    21300102: txt_nine
-    21300104: txt_small_two
-    21300106: txt_small_three
-    21300108: txt_small_four
-    21300110: txt_small_five
+    21300034: SPRITES_Flappy_17
+    21300036: SPRITES_Flappy_18
+    21300038: SPRITES_Flappy_19
+    21300040: SPRITES_Flappy_20
+    21300042: SPRITES_Flappy_21
+    21300044: SPRITES_Flappy_22
+    21300046: SPRITES_Flappy_23
+    21300048: SPRITES_Flappy_24
+    21300050: SPRITES_Flappy_25
+    21300052: SPRITES_Flappy_26
+    21300054: SPRITES_Flappy_27
+    21300056: SPRITES_Flappy_28
+    21300058: SPRITES_Flappy_29
+    21300060: SPRITES_Flappy_30
+    21300062: SPRITES_Flappy_31
+    21300064: SPRITES_Flappy_32
+    21300066: SPRITES_Flappy_33
+    21300068: SPRITES_Flappy_34
+    21300070: SPRITES_Flappy_35
+    21300072: SPRITES_Flappy_36
+    21300074: SPRITES_Flappy_37
+    21300076: SPRITES_Flappy_38
+    21300078: SPRITES_Flappy_39
+    21300080: SPRITES_Flappy_40
+    21300082: SPRITES_Flappy_41
+    21300084: SPRITES_Flappy_42
+    21300086: SPRITES_Flappy_43
+    21300088: SPRITES_Flappy_44
+    21300090: SPRITES_Flappy_45
+    21300092: SPRITES_Flappy_46
+    21300094: SPRITES_Flappy_47
+    21300096: SPRITES_Flappy_48
+    21300098: SPRITES_Flappy_49
+    21300100: SPRITES_Flappy_50
+    21300102: SPRITES_Flappy_51
+    21300104: SPRITES_Flappy_52
+    21300106: SPRITES_Flappy_53
+    21300108: SPRITES_Flappy_54
+    21300110: SPRITES_Flappy_55
+    21300112: SPRITES_Flappy_56
+    21300114: SPRITES_Flappy_57
+    21300116: SPRITES_Flappy_58
+  externalObjects: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -113,33 +117,39 @@ TextureImporter:
   platformSettings:
   - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   - buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   - buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: background
+      name: SPRITES_Flappy_0
       rect:
         serializedVersion: 2
         x: 0
@@ -153,7 +163,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: backgorund_down
+      name: SPRITES_Flappy_1
       rect:
         serializedVersion: 2
         x: 146
@@ -167,12 +177,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: pipe_up
+      name: SPRITES_Flappy_2
       rect:
         serializedVersion: 2
-        x: 302
+        x: 295
         y: 121
-        width: 26
+        width: 33
         height: 135
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -181,12 +191,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: pipe_down
+      name: SPRITES_Flappy_3
       rect:
         serializedVersion: 2
         x: 330
         y: 135
-        width: 25
+        width: 26
         height: 121
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -251,12 +261,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: bacground_score
+      name: SPRITES_Flappy_8
       rect:
         serializedVersion: 2
         x: 146
         y: 140
-        width: 113
+        width: 119
         height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -265,7 +275,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_pause
+      name: SPRITES_Flappy_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 180
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_10
       rect:
         serializedVersion: 2
         x: 287
@@ -279,7 +303,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_zero
+      name: SPRITES_Flappy_11
       rect:
         serializedVersion: 2
         x: 287
@@ -293,7 +317,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_play
+      name: SPRITES_Flappy_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 154
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_13
       rect:
         serializedVersion: 2
         x: 287
@@ -307,7 +345,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_zero
+      name: SPRITES_Flappy_14
       rect:
         serializedVersion: 2
         x: 288
@@ -321,7 +359,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: bird_die
+      name: SPRITES_Flappy_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 141
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_16
       rect:
         serializedVersion: 2
         x: 174
@@ -335,7 +387,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_menu
+      name: SPRITES_Flappy_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_18
       rect:
         serializedVersion: 2
         x: 246
@@ -349,7 +415,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_one
+      name: SPRITES_Flappy_19
       rect:
         serializedVersion: 2
         x: 291
@@ -363,7 +429,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: SPRITES_Flappy_16
+      name: SPRITES_Flappy_20
       rect:
         serializedVersion: 2
         x: 172
@@ -377,7 +443,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_ok
+      name: SPRITES_Flappy_21
       rect:
         serializedVersion: 2
         x: 246
@@ -391,7 +457,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_two
+      name: SPRITES_Flappy_22
       rect:
         serializedVersion: 2
         x: 289
@@ -405,7 +471,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: gold
+      name: SPRITES_Flappy_23
       rect:
         serializedVersion: 2
         x: 302
@@ -419,7 +485,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: arrow
+      name: SPRITES_Flappy_24
       rect:
         serializedVersion: 2
         x: 179
@@ -433,7 +499,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: gold_die_clear
+      name: SPRITES_Flappy_25
       rect:
         serializedVersion: 2
         x: 220
@@ -447,7 +513,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: touch
+      name: SPRITES_Flappy_26
       rect:
         serializedVersion: 2
         x: 176
@@ -461,7 +527,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_tap
+      name: SPRITES_Flappy_27
       rect:
         serializedVersion: 2
         x: 189
@@ -475,7 +541,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_rate
+      name: SPRITES_Flappy_28
       rect:
         serializedVersion: 2
         x: 246
@@ -489,11 +555,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_three
+      name: SPRITES_Flappy_29
       rect:
         serializedVersion: 2
-        x: 288
-        y: 88
+        x: 289
+        y: 87
         width: 7
         height: 19
       alignment: 0
@@ -503,7 +569,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: bacground_black
+      name: SPRITES_Flappy_30
       rect:
         serializedVersion: 2
         x: 302
@@ -517,40 +583,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: png.cemal
-      rect:
-        serializedVersion: 2
-        x: 357
-        y: 53
-        width: 42
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: png.oguz
-      rect:
-        serializedVersion: 2
-        x: 415
-        y: 55
-        width: 27
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: txt_flappybird
+      name: SPRITES_Flappy_31
       rect:
         serializedVersion: 2
         x: 146
         y: 61
-        width: 94
+        width: 56
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -559,7 +597,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_score
+      name: SPRITES_Flappy_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_33
       rect:
         serializedVersion: 2
         x: 244
@@ -573,7 +625,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_four
+      name: SPRITES_Flappy_34
       rect:
         serializedVersion: 2
         x: 287
@@ -587,7 +639,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: background_white
+      name: SPRITES_Flappy_35
       rect:
         serializedVersion: 2
         x: 302
@@ -601,7 +653,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_five
+      name: SPRITES_Flappy_36
       rect:
         serializedVersion: 2
         x: 287
@@ -615,12 +667,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_gameover
+      name: SPRITES_Flappy_37
       rect:
         serializedVersion: 2
         x: 146
         y: 38
-        width: 93
+        width: 48
         height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -629,7 +681,21 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_share
+      name: SPRITES_Flappy_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 38
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_39
       rect:
         serializedVersion: 2
         x: 242
@@ -643,7 +709,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_six
+      name: SPRITES_Flappy_40
       rect:
         serializedVersion: 2
         x: 284
@@ -657,7 +723,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_seven
+      name: SPRITES_Flappy_41
       rect:
         serializedVersion: 2
         x: 292
@@ -671,7 +737,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: btn_start
+      name: SPRITES_Flappy_42
       rect:
         serializedVersion: 2
         x: 242
@@ -685,7 +751,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_eight
+      name: SPRITES_Flappy_43
       rect:
         serializedVersion: 2
         x: 284
@@ -699,7 +765,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_nine
+      name: SPRITES_Flappy_44
       rect:
         serializedVersion: 2
         x: 292
@@ -713,40 +779,26 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: png.baris
-      rect:
-        serializedVersion: 2
-        x: 361
-        y: 3
-        width: 34
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: png.erdal
-      rect:
-        serializedVersion: 2
-        x: 412
-        y: 3
-        width: 33
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: txt_getready
+      name: SPRITES_Flappy_45
       rect:
         serializedVersion: 2
         x: 146
+        y: 16
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SPRITES_Flappy_46
+      rect:
+        serializedVersion: 2
+        x: 182
         y: 13
-        width: 87
+        width: 51
         height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -755,7 +807,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: gold_clear
+      name: SPRITES_Flappy_47
       rect:
         serializedVersion: 2
         x: 242
@@ -769,7 +821,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: gold_die
+      name: SPRITES_Flappy_48
       rect:
         serializedVersion: 2
         x: 266
@@ -783,7 +835,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_plus
+      name: SPRITES_Flappy_49
       rect:
         serializedVersion: 2
         x: 290
@@ -797,7 +849,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_new
+      name: SPRITES_Flappy_50
       rect:
         serializedVersion: 2
         x: 146
@@ -811,7 +863,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_six
+      name: SPRITES_Flappy_51
       rect:
         serializedVersion: 2
         x: 165
@@ -825,7 +877,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_seven
+      name: SPRITES_Flappy_52
       rect:
         serializedVersion: 2
         x: 175
@@ -839,11 +891,11 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_eight
+      name: SPRITES_Flappy_53
       rect:
         serializedVersion: 2
-        x: 186
-        y: 2
+        x: 185
+        y: 1
         width: 7
         height: 10
       alignment: 0
@@ -853,7 +905,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_nine
+      name: SPRITES_Flappy_54
       rect:
         serializedVersion: 2
         x: 195
@@ -867,10 +919,10 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_two
+      name: SPRITES_Flappy_55
       rect:
         serializedVersion: 2
-        x: 203
+        x: 204
         y: 4
         width: 6
         height: 7
@@ -881,7 +933,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_three
+      name: SPRITES_Flappy_56
       rect:
         serializedVersion: 2
         x: 212
@@ -895,7 +947,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_four
+      name: SPRITES_Flappy_57
       rect:
         serializedVersion: 2
         x: 220
@@ -909,7 +961,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: txt_small_five
+      name: SPRITES_Flappy_58
       rect:
         serializedVersion: 2
         x: 228
